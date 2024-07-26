@@ -16,7 +16,13 @@ Vue.component("simple_footer_component_1721999124", {
                 <div class="flex">
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         Unleash your culinary creativity with FoodCraft. Craft delicious meals, share recipes, and connect with a passionate community of food enthusiasts.
+                        Unleash your culinary creativity with FoodCraft. Craft delicious meals, share recipes, and connect with a passionate community of food enthusiasts.
                     </div>
+                </div>
+                <div class="flex mt-4">
+                    <button class="flex-1 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
+                        Good Morning
+                    </button>
                 </div>
             </div>
         </footer> 
