@@ -36,5 +36,11 @@
         "content": "add a background blue",
         "timestamp": "26072024130814",
         "message_id": "guest26072024130814"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Definitely, I'll work on adding a blue background.",
+        "timestamp": "26072024130815",
+        "message_id": "guest26072024130814"
     }
 ]
