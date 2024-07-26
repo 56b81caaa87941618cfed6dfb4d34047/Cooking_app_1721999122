@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you want to clear the content temporarily or permanently remove it from your app?\", \"option1\": \"Temporarily clear content\", \"option2\": \"Permanently remove content\"}, {\"question 2\": \"Should this action affect only visible text and fields or also include background properties and formatting?\", \"option1\": \"Only clear visible text and fields\", \"option2\": \"Clear all content including background properties and formatting\"}], \"input_token_count\": 373, \"output_token_count\": 100, \"time_taken\": \"0:00:02.843080\"}",
+        "message_id": "guest26072024130925",
+        "timestamp": "26072024130929",
+        "component_file_name": "simple_footer_component_1721999124",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Thanks for your message! Sure, I'm working on clearing all the content.",
         "message_id": "guest26072024130925",
