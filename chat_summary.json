@@ -18,5 +18,11 @@
         "content": "Acknowledged, adding a login form with 2 fields and a login button.",
         "timestamp": "26072024130710",
         "message_id": "guest26072024130709"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What authentication method should the login form use?\", \"option1\": \"Email and password\", \"option2\": \"Username and password\"}, {\"question 2\": \"Would you like to include options for social media logins in addition to the basic login form?\", \"option1\": \"Yes, include social media login options\", \"option2\": \"No, keep it simple with just the basic login\"}], \"input_token_count\": 264, \"output_token_count\": 95, \"time_taken\": \"0:00:03.474774\"}",
+        "timestamp": "26072024130715",
+        "message_id": "guest26072024130709"
     }
 ]
