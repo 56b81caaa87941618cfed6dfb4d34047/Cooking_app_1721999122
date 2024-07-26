@@ -48,5 +48,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjustable color themes for user preference\", \"checked\": true}, {\"feature\": \"Dynamic background based on the time of day\", \"checked\": false}, {\"feature\": \"Customizable font colors for improved readability\", \"checked\": true}, {\"feature\": \"Option to switch between light and dark mode\", \"checked\": true}, {\"feature\": \"Animation effects for background transitions\", \"checked\": false}, {\"feature\": \"Gradient color options for background customization\", \"checked\": false}], \"input_token_count\": 209, \"output_token_count\": 102, \"time_taken\": \"0:00:03.351681\"}",
         "timestamp": "26072024130818",
         "message_id": "guest26072024130814"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of blue in mind for the background, or would you like us to select a shade that complements the app's color scheme?\", \"option1\": \"I have a specific shade of blue in mind.\", \"option2\": \"Please select a complementary shade for me.\"}, {\"question 2\": \"Should the blue background be applied to all pages of the app or only specific sections/pages?\", \"option1\": \"Apply to all pages\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 255, \"output_token_count\": 118, \"time_taken\": \"0:00:03.743330\"}",
+        "timestamp": "26072024130818",
+        "message_id": "guest26072024130814"
     }
 ]
