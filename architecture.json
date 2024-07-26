@@ -18,5 +18,9 @@
     {
         "level": 1,
         "task_description": "add a new button with Good Morning text"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user requested the addition of a login form with two fields and one button labeled \"login.\" The AI acknowledged this request and then asked for more details about the project to better understand the context and requirements for the login form.\nAI: Sounds good, I'll add a button with \"Good Morning\".\nUser: add a new button with Good Morning text\nAI: Definitely, I'll work on adding a blue background.\nUser: add a background blue\nThis is the user's current request of changes to be made: clear all content of this component"
     }
 ]
