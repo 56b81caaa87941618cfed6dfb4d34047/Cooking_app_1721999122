@@ -1,63 +1,97 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1721999124",
+        "role": "chat_acknowledge",
+        "content": "Sounds good, I'll add a button with \"Good Morning\".",
+        "message_id": "guest26072024130847",
+        "timestamp": "26072024130848",
         "component_file_name": "",
-        "div_id": ""
-    },
-    {
-        "role": "user",
-        "content": "add a login form with two field and one button with text login",
-        "timestamp": "26072024130710",
-        "message_id": "guest26072024130709"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Acknowledged, adding a login form with 2 fields and a login button.",
-        "timestamp": "26072024130710",
-        "message_id": "guest26072024130709"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What authentication method should the login form use?\", \"option1\": \"Email and password\", \"option2\": \"Username and password\"}, {\"question 2\": \"Would you like to include options for social media logins in addition to the basic login form?\", \"option1\": \"Yes, include social media login options\", \"option2\": \"No, keep it simple with just the basic login\"}], \"input_token_count\": 264, \"output_token_count\": 95, \"time_taken\": \"0:00:03.474774\"}",
-        "timestamp": "26072024130715",
-        "message_id": "guest26072024130709"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add form validation feedback for login errors (e.g. wrong user/password)\", \"checked\": true}, {\"feature\": \"Implement 'Remember me' checkbox for returning users\", \"checked\": false}, {\"feature\": \"Include a 'Forgot Password?' link for password recovery\", \"checked\": true}, {\"feature\": \"Provide a 'Sign Up' option for new users\", \"checked\": true}, {\"feature\": \"Enable social media login options (e.g., Facebook, Google)\", \"checked\": false}, {\"feature\": \"Add animations to the login button for a better user experience\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 127, \"time_taken\": \"0:00:04.644532\"}",
-        "timestamp": "26072024130716",
-        "message_id": "guest26072024130709"
-    },
-    {
-        "role": "user",
-        "content": "add a background blue",
-        "timestamp": "26072024130814",
-        "message_id": "guest26072024130814"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Definitely, I'll work on adding a blue background.",
-        "timestamp": "26072024130815",
-        "message_id": "guest26072024130814"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjustable color themes for user preference\", \"checked\": true}, {\"feature\": \"Dynamic background based on the time of day\", \"checked\": false}, {\"feature\": \"Customizable font colors for improved readability\", \"checked\": true}, {\"feature\": \"Option to switch between light and dark mode\", \"checked\": true}, {\"feature\": \"Animation effects for background transitions\", \"checked\": false}, {\"feature\": \"Gradient color options for background customization\", \"checked\": false}], \"input_token_count\": 209, \"output_token_count\": 102, \"time_taken\": \"0:00:03.351681\"}",
-        "timestamp": "26072024130818",
-        "message_id": "guest26072024130814"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of blue in mind for the background, or would you like us to select a shade that complements the app's color scheme?\", \"option1\": \"I have a specific shade of blue in mind.\", \"option2\": \"Please select a complementary shade for me.\"}, {\"question 2\": \"Should the blue background be applied to all pages of the app or only specific sections/pages?\", \"option1\": \"Apply to all pages\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 255, \"output_token_count\": 118, \"time_taken\": \"0:00:03.743330\"}",
-        "timestamp": "26072024130818",
-        "message_id": "guest26072024130814"
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "user",
         "content": "add a new button with Good Morning text",
+        "message_id": "guest26072024130847",
+        "timestamp": "26072024130848",
+        "component_file_name": "simple_footer_component_1721999124",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you have a specific shade of blue in mind for the background, or would you like us to select a shade that complements the app's color scheme?\", \"option1\": \"I have a specific shade of blue in mind.\", \"option2\": \"Please select a complementary shade for me.\"}, {\"question 2\": \"Should the blue background be applied to all pages of the app or only specific sections/pages?\", \"option1\": \"Apply to all pages\", \"option2\": \"Only specific sections/pages\"}], \"input_token_count\": 255, \"output_token_count\": 118, \"time_taken\": \"0:00:03.743330\"}",
+        "message_id": "guest26072024130814",
+        "timestamp": "26072024130818",
+        "component_file_name": "blank_component_1721999204",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Adjustable color themes for user preference\", \"checked\": true}, {\"feature\": \"Dynamic background based on the time of day\", \"checked\": false}, {\"feature\": \"Customizable font colors for improved readability\", \"checked\": true}, {\"feature\": \"Option to switch between light and dark mode\", \"checked\": true}, {\"feature\": \"Animation effects for background transitions\", \"checked\": false}, {\"feature\": \"Gradient color options for background customization\", \"checked\": false}], \"input_token_count\": 209, \"output_token_count\": 102, \"time_taken\": \"0:00:03.351681\"}",
+        "message_id": "guest26072024130814",
+        "timestamp": "26072024130818",
+        "component_file_name": "blank_component_1721999204",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Definitely, I'll work on adding a blue background.",
+        "message_id": "guest26072024130814",
+        "timestamp": "26072024130815",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a background blue",
+        "message_id": "guest26072024130814",
+        "timestamp": "26072024130814",
+        "component_file_name": "blank_component_1721999204",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add form validation feedback for login errors (e.g. wrong user/password)\", \"checked\": true}, {\"feature\": \"Implement 'Remember me' checkbox for returning users\", \"checked\": false}, {\"feature\": \"Include a 'Forgot Password?' link for password recovery\", \"checked\": true}, {\"feature\": \"Provide a 'Sign Up' option for new users\", \"checked\": true}, {\"feature\": \"Enable social media login options (e.g., Facebook, Google)\", \"checked\": false}, {\"feature\": \"Add animations to the login button for a better user experience\", \"checked\": false}], \"input_token_count\": 218, \"output_token_count\": 127, \"time_taken\": \"0:00:04.644532\"}",
+        "message_id": "guest26072024130709",
+        "timestamp": "26072024130716",
+        "component_file_name": "blank_component_1721999204",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What authentication method should the login form use?\", \"option1\": \"Email and password\", \"option2\": \"Username and password\"}, {\"question 2\": \"Would you like to include options for social media logins in addition to the basic login form?\", \"option1\": \"Yes, include social media login options\", \"option2\": \"No, keep it simple with just the basic login\"}], \"input_token_count\": 264, \"output_token_count\": 95, \"time_taken\": \"0:00:03.474774\"}",
+        "message_id": "guest26072024130709",
+        "timestamp": "26072024130715",
+        "component_file_name": "blank_component_1721999204",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, adding a login form with 2 fields and a login button.",
+        "message_id": "guest26072024130709",
+        "timestamp": "26072024130710",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a login form with two field and one button with text login",
+        "message_id": "guest26072024130709",
+        "timestamp": "26072024130710",
+        "component_file_name": "blank_component_1721999204",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
         "timestamp": "26072024130848",
         "message_id": "guest26072024130847"
     }
