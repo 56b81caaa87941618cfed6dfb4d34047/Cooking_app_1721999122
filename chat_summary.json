@@ -12,5 +12,11 @@
         "content": "add a login form with two field and one button with text login",
         "timestamp": "26072024130710",
         "message_id": "guest26072024130709"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, adding a login form with 2 fields and a login button.",
+        "timestamp": "26072024130710",
+        "message_id": "guest26072024130709"
     }
 ]
