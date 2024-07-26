@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, adding a login form with 2 fields and a login button.",
+        "message_id": "guest26072024130709",
+        "timestamp": "26072024130710",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a login form with two field and one button with text login",
         "message_id": "guest26072024130709",
