@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Thanks for your message! Sure, I'm working on clearing all the content.",
+        "message_id": "guest26072024130925",
+        "timestamp": "26072024130927",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "clear all content of this component",
         "message_id": "guest26072024130925",
