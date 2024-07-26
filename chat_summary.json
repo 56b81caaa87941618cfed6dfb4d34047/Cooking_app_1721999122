@@ -6,5 +6,11 @@
         "timestamp": "1721999124",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a login form with two field and one button with text login",
+        "timestamp": "26072024130710",
+        "message_id": "guest26072024130709"
     }
 ]
